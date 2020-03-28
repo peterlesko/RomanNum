@@ -3,12 +3,22 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="$PROJECT_DIR$/src/main/java/com/plesk/Template.java">
+        <entry key="/a.dummy">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/test/java/com/plesk/TestTemplate.java">
+        <entry key="$PROJECT_DIR$/src/main/java/com/plesk/RomanNum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/plesk/TestRomanNum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fizz-buzz/src/main/java/com/plesk/FizzBuzz.java">
           <value>
             <set />
           </value>

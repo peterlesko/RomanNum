@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Template" />
+        <module name="RomanNum" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Template" target="1.8" />
+      <module name="RomanNum" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
